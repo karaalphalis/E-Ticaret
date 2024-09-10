@@ -3,6 +3,7 @@ version: "3.9"
 networks:
   laravel_enviroment:
 
+
 services:
   server:
     # image: 'nginx:stable-alpine'
